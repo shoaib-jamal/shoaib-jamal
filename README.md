@@ -1,4 +1,4 @@
-![head.png](https://raw.githubusercontent.com/gist/T-Jedsada/dbee22959762fa6c0ccad8153830b51a/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif)
+
 
 Hi there, thanks for stopping by, this is **Shoaib Jamal**.
 
@@ -20,6 +20,7 @@ const shoaib = {
 ```
 
 ![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoaib-jamal&show_icons=true&theme=radical)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib-jamal&layout=compact)
 
 <a href="https://github.com/shoaib-jamal">
@@ -29,4 +30,4 @@ const shoaib = {
    <img src="https://komarev.com/ghpvc/?username=shoaib-jamal">
 </a>
 
-![bottom.png](https://data.whicdn.com/images/315607263/original.gif)
+![head.png](https://raw.githubusercontent.com/gist/T-Jedsada/dbee22959762fa6c0ccad8153830b51a/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif)
