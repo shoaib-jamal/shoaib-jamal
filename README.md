@@ -30,4 +30,4 @@ const shoaib = {
    <img src="https://komarev.com/ghpvc/?username=shoaib-jamal">
 </a>
 
-![head.png](https://raw.githubusercontent.com/gist/T-Jedsada/dbee22959762fa6c0ccad8153830b51a/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif)
+
