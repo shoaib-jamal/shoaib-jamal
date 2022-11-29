@@ -20,16 +20,7 @@ const shoaib = {
 };
 ```
 
-![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoaib-jamal&show_icons=true&theme=radical)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib-jamal&layout=compact&theme=radical)
 
-<a href="https://github.com/shoaib-jamal">
-  <img src="https://img.shields.io/github/followers/shoaib-jamal">
-</a>
-<a href="https://github.com/shoaib-jamal">
-   <img src="https://komarev.com/ghpvc/?username=shoaib-jamal">
-</a>
   
 
 
