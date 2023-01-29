@@ -1,7 +1,7 @@
 
 
 
-Hi there, thanks for stopping by. This is **Shoaib Khan**.<br>A tech-savvy guy and professional web designer from Pakistan 🇵🇰
+Hi there, thanks for stopping by. This is **Shoaib Khan**.<br>Tech-savvy student and a professional web designer from Pakistan 🇵🇰
 
 
 
