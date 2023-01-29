@@ -20,7 +20,7 @@ const shoaib = {
 };
 ```
 
-<center><a href="https://publishers.adsterra.com/referral/XKp2LBM1ga"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/728%20x%2090%20px.png" /></a></center>
+
 
 
 
