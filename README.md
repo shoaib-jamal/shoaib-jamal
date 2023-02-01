@@ -3,7 +3,7 @@
 
 Hi there, thanks for stopping by. This is **Shoaib Khan**.<br>Tech-savvy student and a professional web designer from Pakistan 🇵🇰
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ```javascript
 const shoaib = {
