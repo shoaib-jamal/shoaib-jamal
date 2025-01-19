@@ -1,0 +1,26 @@
+name: Daily Commit
+
+on:
+  schedule:
+    # This triggers the workflow at 00:00 UTC every day.
+    - cron: '0 0 * * *'
+
+jobs:
+  daily_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "shoaib-jamal"
+          git config --global user.email "m.shoaib.jamal@outlook.com"
+
+      - name: Create or modify .daily_commit.txt file
+        run: |
+          echo "Automated commit: $(date)" >> .daily_commit.txt
+          git add .daily_commit.txt
+          git commit -m "Daily commit: $(date)"
+          git push
