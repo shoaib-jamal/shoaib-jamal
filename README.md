@@ -1,24 +1,36 @@
 
 
 
-Hi there, thanks for stopping by. This is **Shoaib Khan**.<br>Tech-savvy student and a professional web designer from Pakistan 🇵🇰
+Hi there, thanks for stopping by. This is **Shoaib**.<br>Tech-savvy student and a professional web designer from Pakistan 🇵🇰
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
 ```javascript
 const shoaib = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["hobby dev", "tech", "game dev", "cyber sec."],
+    pronouns: "He" as "He" | "Him",
+    askMeAbout: [
+        "hobby dev", 
+        "tech", 
+        "game dev", 
+        "cyber sec", 
+        "AI", 
+        "cloud", 
+        "DevOps", 
+        "open source", 
+        "full stack"
+    ],
     technologies: {
         frontEnd: {
             js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
+            css: ["bootstrap", "tailwind", "sass"]
         },
-        backEnd: ["Java", "PHP", "Python"]
+        backEnd: ["Java", "PHP", "Python", "Express"],
+        databases: ["Postgres", "MongoDB", "MySQL"],
+        other: ["Docker", "Kubernetes", "GraphQL", "Redis"]
     }
 };
 ```
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%"/>
 
 
 
