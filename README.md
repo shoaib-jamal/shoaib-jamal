@@ -1,8 +1,3 @@
-
-
-
-Hi there, thanks for stopping by. This is **Shoaib**.<br>Tech-savvy student and a professional web designer from Pakistan 🇵🇰
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 
 ```javascript
