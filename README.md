@@ -5,7 +5,7 @@ const shoaib = {
     pronouns: "He" as "He" | "Him",
     askMeAbout: [
         "hobby dev", 
-        "tech", 
+        "blockchain", 
         "game dev", 
         "cyber sec", 
         "AI", 
