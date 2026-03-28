@@ -2,7 +2,6 @@ name: Daily Commit
 
 on:
   schedule:
-    # This triggers the workflow at 00:00 UTC every day.
     - cron: '0 0 * * *'
 
 jobs:
@@ -11,7 +10,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
 
       - name: Set up Git
         run: |
