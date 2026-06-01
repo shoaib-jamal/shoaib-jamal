@@ -20,7 +20,7 @@ jobs:
       - name: Set up Git
         run: |
           git config --global user.name "shoaib-jamal"
-          git config --global user.email "m.shoaib.jamal@outlook.com"
+          git config --global user.email "hishoaib@outlook.com"
 
       - name: Create or modify .daily_commit.txt file
         run: |
